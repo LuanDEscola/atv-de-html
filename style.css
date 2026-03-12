@@ -1,0 +1,27 @@
+body {
+    background-color: yellow;
+}
+
+.pedidodesocorrokk {
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.texto {
+    color: blue;
+    font-size: 20px;
+}
+
+.textoo {
+    color: green;
+    font-size: 18px;
+}
+
+.pe {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
